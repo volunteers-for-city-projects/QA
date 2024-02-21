@@ -13,23 +13,22 @@ Volunteers for cityprojects / QA
 ## [План тестирования](https://docs.google.com/document/d/1aJxE3HqGL7-Fji1ff7yI0kHS0APkjkd8mOPbhxyoZxY/edit?usp=sharing)
 
 ## Инструменты
-[![qase.io][qase.io-badge]][qase.io-url]
-[![Charles][Charles-badge]][Charles-url]
 [![Postman][Postman-badge]][Postman-url]
 [![Swagger][Swagger-badge]][Swagger-url]
+[![Charles][Charles-badge]][Charles-url]
 [![DevTools][DevTools-badge]][DevTools-url]
-
+[![qase.io][qase.io-badge]][qase.io-url]
 
 
 <!-- MARKDOWN LINKS & BADGES -->
 
 [qase.io-url]: https://www.qase.io/
 
-[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/18/23d29703f8a2b8c20860b8e7a9a8bb18.jpg
+[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/da/d7960c95461db9ee881f37e0ff1badda.png
 
 [Charles-url]: https://www.charlesproxy.com/
 
-[Charles-badge]: https://i123.fastpic.org/big/2024/0221/d2/38a499f5cf1710336b3cb881d4fc6bd2.jpg
+[Charles-badge]: https://i123.fastpic.org/big/2024/0221/3c/9001fba611286c207e1e4412dc20723c.png
 
 [Postman-url]: https://www.postman.com/
 
@@ -41,5 +40,5 @@ Volunteers for cityprojects / QA
 
 [DevTools-url]: https://developer.chrome.com/docs/devtools?hl=ru
 
-[DevTools-badge]: https://i123.fastpic.org/big/2024/0221/c7/fd929531b9957ce7b9b8e939b5f6c9c7.jpg
+[DevTools-badge]: https://i123.fastpic.org/big/2024/0221/94/c88c2cf392cd16d8d26c62a1cc9ea594.png
 
