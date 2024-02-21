@@ -9,7 +9,8 @@ Volunteers for cityprojects / QA
 - [Оксана Кашина](https://github.com/KashinaOksi)
 - [Данила Степанов](https://github.com/danilastepanov)
 - [Мила Данилина](https://github.com/mimimila)
-- [Юрий Мешвез](https://github.com/meshvez01) 
+- [Юрий Мешвез](https://github.com/meshvez01)
+## [План тестирования](https://docs.google.com/document/d/1aJxE3HqGL7-Fji1ff7yI0kHS0APkjkd8mOPbhxyoZxY/edit?usp=sharing)
 
 ## Инструменты
 [![qase.io][qase.io-badge]][qase.io-url]
@@ -18,7 +19,7 @@ Volunteers for cityprojects / QA
 [![Swagger][Swagger-badge]][Swagger-url]
 [![DevTools][DevTools-badge]][DevTools-url]
 
-## [План тестирования](https://docs.google.com/document/d/1aJxE3HqGL7-Fji1ff7yI0kHS0APkjkd8mOPbhxyoZxY/edit?usp=sharing)
+
 
 <!-- MARKDOWN LINKS & BADGES -->
 
