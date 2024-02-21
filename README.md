@@ -5,11 +5,11 @@ Volunteers for cityprojects / QA
 Платформа для объединения волонтеров для городских проектов и инициатив может значительно улучшить организацию и результаты волонтерской работы, повысить масштаб и эффективность городских проектов, а также вовлечь больше людей в активное участие в совершенствовании своего города.
 
 Команда тестирования:
-[Софья Виноградова](https://github.com/Twilight-Messiah) 
-[Оксана Кашина](https://github.com/KashinaOksi)
-[Данила Степанов](https://github.com/danilastepanov)
-[Мила Данилина](https://github.com/mimimila)
-[Юрий Мешвез](https://github.com/meshvez01) 
+- [Софья Виноградова](https://github.com/Twilight-Messiah)
+- [Оксана Кашина](https://github.com/KashinaOksi)
+- [Данила Степанов](https://github.com/danilastepanov)
+- [Мила Данилина](https://github.com/mimimila)
+- [Юрий Мешвез](https://github.com/meshvez01) 
 
 ## Инструменты
 [![qase.io][qase.io-badge]][qase.io-url]
