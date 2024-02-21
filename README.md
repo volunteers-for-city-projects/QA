@@ -24,11 +24,11 @@ Volunteers for cityprojects / QA
 
 [qase.io-url]: https://www.qase.io/
 
-[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/da/d7960c95461db9ee881f37e0ff1badda.png
+[qase.io-badge]: https://i123.fastpic.org/big/2024/0221/ca/2f2409704ce5c9dace54bc7d9aa366ca.png
 
 [Charles-url]: https://www.charlesproxy.com/
 
-[Charles-badge]: https://i123.fastpic.org/big/2024/0221/3c/9001fba611286c207e1e4412dc20723c.png
+[Charles-badge]: https://i123.fastpic.org/big/2024/0221/1f/22782a705dcbeab31aa4acbf1367601f.png
 
 [Postman-url]: https://www.postman.com/
 
@@ -37,6 +37,10 @@ Volunteers for cityprojects / QA
 [Swagger-url]: https://swagger.io/
 
 [Swagger-badge]: https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
+
+[DevTools-url]: https://developer.chrome.com/docs/devtools?hl=ru
+
+[DevTools-badge]: https://i123.fastpic.org/big/2024/0221/fb/29d6776fcb4717e1242926383663f6fb.png
 
 [DevTools-url]: https://developer.chrome.com/docs/devtools?hl=ru
 
